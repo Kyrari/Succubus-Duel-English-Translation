@@ -1,4 +1,4 @@
-default
+default
 シスター,Sister Maria
 あら、はじめまして。わたし、この街の神殿でシスターをやっているものです。,Oh; good to meet you. My name is Maria. I’m a Sister of this town's church.
 あなたもカードマスターなんですね。普段の戦いでお怪我などはされていませんか？,It seems that you’re also a cardmaster. Have you been hurt in your recent battles?
